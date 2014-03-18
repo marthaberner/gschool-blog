@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-ruby '2.0.0'
+gem "rspec", "~> 2.14.1"
+
+ruby '2.1.1'
 
 gem 'middleman', '~> 3.2.2'
 gem 'middleman-core', '~> 3.2.2'
