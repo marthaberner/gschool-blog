@@ -37,9 +37,9 @@ brow furrowing.  But never mind that.
 My dreams are different now too.  Now they consist of giant mazes of ice blue code that whizz
 by all night, making my brain feel scrambled.  As you might imagine, it's a very restful sleep.
 
-The good news is that I am beginning to understand Ruby.  More than that even.  I am blown away at how much I now know about other things that I didn't have a clue about two weeks ago, like Terminal, Heroku and GitHub.
-I also know more people.  Awesome people.  People who have also embarked on a journey to grow, and learn.
+The good news is that I am beginning to understand Ruby.  More than that even.  I am blown away at how much I now know about other things that I didn't have a clue about two weeks ago, like Terminal, [Heroku](https://www.heroku.com/) and [GitHub](https://github.com/).
+I also know more people.  Awesome people.  People who have also embarked on a journey to grow, and learn. And we are in this together.
 
-For now, [rubymonk](https://rubymonk.com/learning/books/1-ruby-primer) is helping make those conversations with myself a little more coherent.
+Also in this with me, right now, is  [rubymonk](https://rubymonk.com/learning/books/1-ruby-primer), helping make the conversations with myself a little more coherent.
 
 
