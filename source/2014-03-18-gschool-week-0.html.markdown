@@ -1,5 +1,5 @@
 ---
-title: Martha Berner - My Life in gSchool
+title: Week 3
 date: 2014-03-18 22:13 UTC
 tags: ruby, galvanize, gSchool, Boulder gSchool, rubymonk, martha, berner, martha berner, Denver
 ---
