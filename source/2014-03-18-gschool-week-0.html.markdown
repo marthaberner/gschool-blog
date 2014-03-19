@@ -12,9 +12,11 @@ Learning to Talk to Myself - An Introduction to Ruby
 class Me
  def initialize(pastMe, meNow)
     if pastMe == meNow
-    "Oh crap! I better stop sleeping and study even harder!"
+    "Oh crap! I better stop sleeping and study
+    even harder!"
     else
-    "Wow, gSchool is awesome! Instant community, awesome learning environment!"
+    "Wow, gSchool is awesome! Instant community,
+    awesome learning environment!"
     end
   end
 end
