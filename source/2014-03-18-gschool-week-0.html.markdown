@@ -24,7 +24,7 @@ end
 ####Thankfully, ```  pastMe!= meNow ```.   In part, because I'm learning to talk to myself.
 
 Of course, I was talking to myself before I started [gSchool](https://www.gschool.it/) Boulder 2 weeks ago, albeit much simpler ramblings.  My conversations
- before now were fewer and further between and consisted of light fare such as "Uh oh, did I forget to feed Howie? No, I'm pretty sure
+ before now were fewer and further between and consisted of lighter fare such as "Uh oh, did I forget to feed Howie? No, I'm pretty sure
 I fed him before I left the house this morning at 6:30am...blah blah blah."
 
 Now, I talk to myself as a rule.  I even write notes to future me.  They go something like this - "Berner, stop screwing up
