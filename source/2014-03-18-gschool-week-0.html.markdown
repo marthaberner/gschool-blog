@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: gSchool - Week 3
 date: 2014-03-18 22:13 UTC
 tags: ruby, galvanize, gSchool, Boulder gSchool, rubymonk, martha, berner, martha berner, Denver
 ---
@@ -37,8 +37,8 @@ brow furrowing.  But never mind that.
 My dreams are different now too.  Now they consist of giant mazes of ice blue code that whizz
 by all night, making my brain feel scrambled.  As you might imagine, it's a very restful sleep.
 
-The good news is that I am beginning to understand Ruby.  More than that even.  I am blown away at how much I know now about other things that I didn't have a clue about two weeks ago, like Terminal, Heroku and GitHub.
-I also know more people now.  Awesome people.  People who have also embarked on a journey to grow, and learn.
+The good news is that I am beginning to understand Ruby.  More than that even.  I am blown away at how much I now know about other things that I didn't have a clue about two weeks ago, like Terminal, Heroku and GitHub.
+I also know more people.  Awesome people.  People who have also embarked on a journey to grow, and learn.
 
 For now, [rubymonk](https://rubymonk.com/learning/books/1-ruby-primer) is helping make those conversations with myself a little more coherent.
 
